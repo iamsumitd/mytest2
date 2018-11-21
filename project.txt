@@ -1,3 +1,5 @@
 hello world newone
 newline
 another new line
+Imma cool guy
+Im awesome
